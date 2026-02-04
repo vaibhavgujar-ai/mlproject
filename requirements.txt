@@ -1,5 +1,8 @@
 pandas
-numpy
+numpy==1.26.4
 seaborn
 matplotlib
--e .
+scikit-learn==1.4.2
+catboost
+xgboost
+#e .
