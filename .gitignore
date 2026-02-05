@@ -50,6 +50,10 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+#environment variables
+.env
+.venv
+artifacts/
 
 # Translations
 *.mo
